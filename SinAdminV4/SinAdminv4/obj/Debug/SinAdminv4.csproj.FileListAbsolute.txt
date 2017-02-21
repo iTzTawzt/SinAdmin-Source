@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\SinAdminv4\SinAdminv4\bin\Debug\InfinityScript.dll
+c:\users\admin\documents\visual studio 2013\Projects\SinAdminv4\SinAdminv4\bin\Debug\SinAdminv4.auto.dll
+c:\users\admin\documents\visual studio 2013\Projects\SinAdminv4\SinAdminv4\bin\Debug\SinAdminv4.auto.pdb
+c:\users\admin\documents\visual studio 2013\Projects\SinAdminv4\SinAdminv4\obj\Debug\SinAdminv4.auto.dll
+c:\users\admin\documents\visual studio 2013\Projects\SinAdminv4\SinAdminv4\obj\Debug\SinAdminv4.auto.pdb
+C:\Users\Markus\Desktop\Projects\SinAdminV4\SinAdminv4\bin\Debug\SinAdminv4.auto.dll
+C:\Users\Markus\Desktop\Projects\SinAdminV4\SinAdminv4\bin\Debug\SinAdminv4.auto.pdb
+C:\Users\Markus\Desktop\Projects\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Desktop\Projects\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.auto.dll
+C:\Users\Markus\Desktop\Projects\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.auto.pdb
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\bin\Debug\SinAdminv4.auto.dll
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\bin\Debug\SinAdminv4.auto.pdb
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\bin\Debug\InfinityScript.dll
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.csprojResolveAssemblyReference.cache
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.auto.dll
+C:\Users\kacta\Documents\Ikima\SinAdminV4\SinAdminV4\SinAdminv4\obj\Debug\SinAdminv4.auto.pdb
